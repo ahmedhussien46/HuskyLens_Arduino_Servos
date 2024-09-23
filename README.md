@@ -1,1 +1,1 @@
-Huskylens with arduino servos for pan and tilt for object tracking
+Huskylens with arduino object tracking with pan and tilt movements 
